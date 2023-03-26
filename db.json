@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "name": "Trong Kien",
+      "username": "trongkien123",
+      "email": "trongkien@gmail.com",
+      "phone": "9956976967",
+      "id": 2
+    },
+    {
+      "name": "Hoang Hai",
+      "username": "hoanghai123",
+      "email": "hoanghai@gmail.com",
+      "phone": "9956976967",
+      "id": 3
+    },
+    {
+      "name": "Minh Dung",
+      "username": "minhdung123",
+      "email": "minhdung@gmail.com",
+      "phone": "9956976967",
+      "id": 4
+    },
+    {
+      "name": "Thuy Huong",
+      "username": "thuyhuong4567",
+      "email": "thuyhuong2547@gmail.com",
+      "phone": "444444444444",
+      "id": 5
+    },
+    {
+      "name": "Thuy Huong1",
+      "username": "thuyhuong4567",
+      "email": "thuyhuong2547@gmail.com",
+      "phone": "4444444444441",
+      "id": 6
+    },
+    {
+      "name": "Thuy Huong1",
+      "username": "thuyhuong4567",
+      "email": "thuyhuong2547@gmail.com",
+      "id": 7
+    }
+  ]
+}
